@@ -2,7 +2,7 @@
 - 👀 I’m interested in Job Or Internship 
 - 🌱 I’m currently learning Full Stack Development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me cu.17bcs1796@gmail.com or
 call me 9026330162
 <!---
 Cool-Krish/Cool-Krish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
